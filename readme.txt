@@ -10,9 +10,9 @@
 ##      Description:  Captcha on registration which you can copy and paste.
 ##
 ##
-##   Repository URL:  https://fluxbb.org/resources/mods/copyable-captcha/
+##   Repository URL:  https://github.com/fluxbb-org-ru/copyable-captcha
 ##
-##         Thanks to: Vismap (definition as addon)
+##         Thanks to: Visman (definition as addon)
 ##
 ##   Affected files:  No
 ##
